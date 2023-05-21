@@ -39,7 +39,7 @@ header .header-container .menu-container {
 }
 header .header-container .menu-container .menu-ul {
   display: flex;
-  padding: 45px;
+  padding: 10px;
 }
 @media screen and (max-width: 904px) {
   header .header-container .menu-container .menu-ul {
