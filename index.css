@@ -842,7 +842,7 @@ header .header-container .menu-container .menu-ul .lis :active {
   margin-bottom: 25px;
   display: flex;
   justify-content: center;
-  background-image: url("https://zbecx22.github.io/lili/img/bookcase.JPG");
+  background-image: url("/img/bookcase.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   opacity: 85%;
