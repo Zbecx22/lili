@@ -842,7 +842,7 @@ header .header-container .menu-container .menu-ul .lis :active {
   margin-bottom: 25px;
   display: flex;
   justify-content: center;
-  background-image: url("/img/bookcase.JPG");
+  background-image: url("https://zbecx22.github.io/lili/img/bookcase.JPG");
   background-repeat: no-repeat;
   background-size: 100%;
   opacity: 85%;
@@ -866,7 +866,7 @@ header .header-container .menu-container .menu-ul .lis :active {
 .fw-heading-container {
   margin-top: 50px;
   margin-bottom: 25px;
-  background-image: url("/img/sand-ocean.JPG");
+  background-image: url("https://zbecx22.github.io/lili/img/sand-ocean.JPG");
   background-repeat: no-repeat;
   background-size: 100%;
   opacity: 90%;
@@ -897,7 +897,7 @@ header .header-container .menu-container .menu-ul .lis :active {
 .contact-heading-container {
   margin-top: 50px;
   margin-bottom: 25px;
-  background-image: url("/img/footer-background.JPG");
+  background-image: url("https://zbecx22.github.io/lili/img/footer-background.JPG");
   background-repeat: no-repeat;
   background-size: 100%;
 }
