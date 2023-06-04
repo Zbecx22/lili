@@ -475,6 +475,10 @@ header .header-container .menu-container .menu-ul .lis :active {
 .body-container .sect-g .featured-container .featured-work-container-puentes-review .featured-PW-container p {
   padding-left: 0px;
 }
+.body-container .sect-g .featured-container .featured-work-container-puentes-review .featured-work-card-container-arana img {
+  width: 300px;
+  height: 400px;
+}
 .body-container .sect-g .featured-container .featured-work-container-8 {
   padding-top: 30px;
   padding-bottom: 30px;
